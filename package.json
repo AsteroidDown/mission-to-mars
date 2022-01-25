@@ -2,9 +2,20 @@
     "name": "mission-to-mars",
     "displayName": "Mission to Mars",
     "description": "My fist colour theme",
+    "publisher": "AsteroidDown",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
+    },
+    "icon": "logo.png",
+    "author": {
+        "name": "Jasper Stahmer",
+        "email": "jasper@stahmer.ca",
+        "url": "https://asteroiddown.github.io"
+    },
+    "repository": {
+        "url": "https://github.com/AsteroidDown/mission-to-mars.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
