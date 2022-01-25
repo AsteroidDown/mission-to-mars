@@ -1,0 +1,21 @@
+{
+    "name": "mission-to-mars",
+    "displayName": "Mission to Mars",
+    "description": "My fist colour theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mission to Mars",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mission to Mars-color-theme.json"
+            }
+        ]
+    }
+}
